@@ -59,8 +59,7 @@ function get_access_token () {
 
 function get_last_mail () {
 	access_token=$1
-  #emergency_address="emergency@insign.fr"
-  emergency_address="andre.cianfarani%2Btest@insign.fr"
+  emergency_address="toto@toto.com"
   subject_header_index=19
 	ref=`curl --silent \
 				-X GET \
