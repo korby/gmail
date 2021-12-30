@@ -1,0 +1,4 @@
+parent_dir.env
+*.apps.googleusercontent.com
+client_id.txt
+client_secret.txt
